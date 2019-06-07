@@ -1,0 +1,9 @@
+public class MyFirstJavaProgram{
+  public static void main(String []args)
+  {
+      double z, a, b, c;
+      z = ((a - 3) * b / 2) + c;
+      
+      System.out.println(z);
+  }
+}
